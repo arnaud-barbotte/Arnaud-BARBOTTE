@@ -11,4 +11,4 @@
 - Création d'interfaces réactives en **Vue.js** et intégration avec des backends **GraphQL**.
 - Optimisation des performances des applications pour mobile et desktop.
 
-[Retour à l'accueil](./index.md)
+[Retour à l'accueil](./readme.md)
