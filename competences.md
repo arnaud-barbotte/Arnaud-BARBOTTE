@@ -7,4 +7,4 @@
 - **Contrôle de version**: Git, GitHub, GitLab
 - **Méthodologies**: Agile (Scrum), TDD
 
-[Retour à l'accueil](./index.md)
+[Retour à l'accueil](./readme.md)
