@@ -12,4 +12,4 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 - Développement d'une application mobile cross-platform avec React Native.
 - Plus de 10 000 téléchargements sur Google Play et l'App Store.
 
-[Retour à l'accueil](./index.md)
+[Retour à l'accueil](./readme.md)
