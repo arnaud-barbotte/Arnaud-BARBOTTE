@@ -1,4 +1,4 @@
-# John Doe
+#
 
 **Développeur Web Full Stack**  
 john.doe@email.com  
