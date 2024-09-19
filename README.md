@@ -7,19 +7,104 @@ john.doe@email.com
 
 ---
 
-Bienvenue sur mon site personnel ! Je suis un développeur web full-stack spécialisé dans les technologies modernes comme React, Node.js, et MongoDB.
-
-- [Projets](./projets.md)
-- [Expérience](./experience.md)
-- [Compétences](./competences.md)
-- [Contact](#)
-
----
-
-## À propos de moi
-
-Je suis passionné par le développement de solutions web innovantes. Fort de plusieurs années d'expérience, j'ai travaillé avec des entreprises variées allant des startups aux grandes organisations.
+## Navigation rapide
+- [Expérience Professionnelle](#expérience-professionnelle)
+- [Projets](#projets)
+- [Formation](#formation)
+- [Compétences Techniques](#compétences-techniques)
+- [Langues](#langues)
+- [Centres d'Intérêt](#centres-dintérêt)
 
 ---
 
-Retrouvez plus d'informations sur les sous-pages ci-dessus pour découvrir mes projets, expériences professionnelles et compétences techniques.
+## Expérience Professionnelle
+
+### Développeur Web Full Stack – [Nom de l'entreprise](https://www.nom-entreprise.com)  
+*Janvier 2021 – Présent*  
+- Développement d'applications web avec **React**, **Node.js** et **MongoDB**.
+- Conception d'API RESTful pour des solutions SaaS.
+- Collaboration avec les équipes UI/UX pour améliorer l'expérience utilisateur.
+
+### Développeur Frontend – [Startup Tech](https://www.startup-tech.com)  
+*Septembre 2019 – Décembre 2020*  
+- Création d'interfaces réactives en **Vue.js** et intégration avec des backends **GraphQL**.
+- Optimisation des performances des applications pour mobile et desktop.
+
+### Stage Développement Web – [Nom de l'entreprise](https://www.nom-entreprise.com)  
+*Juillet 2018 – Août 2019*  
+- Contribution au développement de nouvelles fonctionnalités pour une plateforme de gestion de contenu.
+- Tests et débogage de modules frontend en **Angular**.
+
+[Retour en haut](#navigation-rapide)
+
+---
+
+## Projets
+
+### [Application de Gestion de Projets](https://github.com/johndoe/gestion-projets)
+*Un outil web pour la gestion de projets collaboratifs*  
+- Utilisé par plus de 500 utilisateurs pour suivre et gérer leurs projets.
+- Technologies : React, Node.js, MongoDB.
+
+### [Application Mobile de Fitness](https://github.com/johndoe/app-fitness)
+*Application de suivi d'entraînement et de nutrition*  
+- Développement d'une application mobile cross-platform avec React Native.
+- Plus de 10 000 téléchargements sur Google Play et l'App Store.
+
+[Retour en haut](#navigation-rapide)
+
+---
+
+## Formation
+
+### Master Informatique – [Université de Technologie](https://www.universite.com)  
+*2017 – 2019*  
+- Spécialisation en développement logiciel et systèmes distribués.
+- Projets de recherche sur les architectures microservices et le cloud computing.
+
+### Licence Informatique – [Université de Science](https://www.universite.com)  
+*2014 – 2017*  
+- Développement d'applications web et mobiles.
+- Cours avancés en algorithmes, structures de données et conception orientée objet.
+
+[Retour en haut](#navigation-rapide)
+
+---
+
+## Compétences Techniques
+
+- **Langages de programmation**: JavaScript (ES6+), Python, Java
+- **Frameworks**: React, Vue.js, Node.js, Express, Django
+- **Bases de données**: MongoDB, MySQL, PostgreSQL
+- **Outils DevOps**: Docker, Jenkins, Kubernetes
+- **Contrôle de version**: Git, GitHub, GitLab
+- **Méthodologies**: Agile (Scrum), TDD
+
+[Retour en haut](#navigation-rapide)
+
+---
+
+## Langues
+
+- **Français** : Langue maternelle
+- **Anglais** : Courant (TOEIC 940)
+
+[Retour en haut](#navigation-rapide)
+
+---
+
+## Centres d'Intérêt
+
+- **Informatique**: Veille technologique, développement open-source
+- **Sports**: Course à pied, natation
+- **Voyages**: Découverte de nouvelles cultures et technologies à travers le monde
+
+[Retour en haut](#navigation-rapide)
+
+---
+
+## Références
+
+Disponibles sur demande.
+
+[Retour en haut](#navigation-rapide)
