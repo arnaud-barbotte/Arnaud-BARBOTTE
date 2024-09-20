@@ -1,110 +1,129 @@
+---
+icon: laptop
+---
+
 # john doe
 
-**Développeur Web Full Stack**  
-john.doe@email.com  
-+33 6 12 34 56 78  
+**Développeur Web Full Stack**\
+john.doe@email.com\
+\+33 6 12 34 56 78\
 [Portfolio](https://john-doe-portfolio.com) | [GitHub](https://github.com/johndoe) | [LinkedIn](https://www.linkedin.com/in/johndoe)
 
----
+***
 
 ## Navigation rapide
-- [Expérience Professionnelle](#expérience-professionnelle)
-- [Projets](#projets)
-- [Formation](#formation)
-- [Compétences Techniques](#compétences-techniques)
-- [Langues](#langues)
-- [Centres d'Intérêt](#centres-dintérêt)
 
----
+* [Expérience Professionnelle](./#expérience-professionnelle)
+* [Projets](./#projets)
+* [Formation](./#formation)
+* [Compétences Techniques](./#compétences-techniques)
+* [Langues](./#langues)
+* [Centres d'Intérêt](./#centres-dintérêt)
+
+***
 
 ## Expérience Professionnelle
 
-### Développeur Web Full Stack – [Nom de l'entreprise](https://www.nom-entreprise.com)  
-*Janvier 2021 – Présent*  
-- Développement d'applications web avec **React**, **Node.js** et **MongoDB**.
-- Conception d'API RESTful pour des solutions SaaS.
-- Collaboration avec les équipes UI/UX pour améliorer l'expérience utilisateur.
+### Développeur Web Full Stack – [Nom de l'entreprise](https://www.nom-entreprise.com)
 
-### Développeur Frontend – [Startup Tech](https://www.startup-tech.com)  
-*Septembre 2019 – Décembre 2020*  
-- Création d'interfaces réactives en **Vue.js** et intégration avec des backends **GraphQL**.
-- Optimisation des performances des applications pour mobile et desktop.
+_Janvier 2021 – Présent_
 
-### Stage Développement Web – [Nom de l'entreprise](https://www.nom-entreprise.com)  
-*Juillet 2018 – Août 2019*  
-- Contribution au développement de nouvelles fonctionnalités pour une plateforme de gestion de contenu.
-- Tests et débogage de modules frontend en **Angular**.
+* Développement d'applications web avec **React**, **Node.js** et **MongoDB**.
+* Conception d'API RESTful pour des solutions SaaS.
+* Collaboration avec les équipes UI/UX pour améliorer l'expérience utilisateur.
 
-[Retour en haut](#navigation-rapide)
+### Développeur Frontend – [Startup Tech](https://www.startup-tech.com)
 
----
+_Septembre 2019 – Décembre 2020_
+
+* Création d'interfaces réactives en **Vue.js** et intégration avec des backends **GraphQL**.
+* Optimisation des performances des applications pour mobile et desktop.
+
+### Stage Développement Web – [Nom de l'entreprise](https://www.nom-entreprise.com)
+
+_Juillet 2018 – Août 2019_
+
+* Contribution au développement de nouvelles fonctionnalités pour une plateforme de gestion de contenu.
+* Tests et débogage de modules frontend en **Angular**.
+
+[Retour en haut](./#navigation-rapide)
+
+***
 
 ## Projets
 
 ### [Application de Gestion de Projets](https://github.com/johndoe/gestion-projets)
-*Un outil web pour la gestion de projets collaboratifs*  
-- Utilisé par plus de 500 utilisateurs pour suivre et gérer leurs projets.
-- Technologies : React, Node.js, MongoDB.
+
+_Un outil web pour la gestion de projets collaboratifs_
+
+* Utilisé par plus de 500 utilisateurs pour suivre et gérer leurs projets.
+* Technologies : React, Node.js, MongoDB.
 
 ### [Application Mobile de Fitness](https://github.com/johndoe/app-fitness)
-*Application de suivi d'entraînement et de nutrition*  
-- Développement d'une application mobile cross-platform avec React Native.
-- Plus de 10 000 téléchargements sur Google Play et l'App Store.
 
-[Retour en haut](#navigation-rapide)
+_Application de suivi d'entraînement et de nutrition_
 
----
+* Développement d'une application mobile cross-platform avec React Native.
+* Plus de 10 000 téléchargements sur Google Play et l'App Store.
+
+[Retour en haut](./#navigation-rapide)
+
+***
 
 ## Formation
 
-### Master Informatique – [Université de Technologie](https://www.universite.com)  
-*2017 – 2019*  
-- Spécialisation en développement logiciel et systèmes distribués.
-- Projets de recherche sur les architectures microservices et le cloud computing.
+### Master Informatique – [Université de Technologie](https://www.universite.com)
 
-### Licence Informatique – [Université de Science](https://www.universite.com)  
-*2014 – 2017*  
-- Développement d'applications web et mobiles.
-- Cours avancés en algorithmes, structures de données et conception orientée objet.
+_2017 – 2019_
 
-[Retour en haut](#navigation-rapide)
+* Spécialisation en développement logiciel et systèmes distribués.
+* Projets de recherche sur les architectures microservices et le cloud computing.
 
----
+### Licence Informatique – [Université de Science](https://www.universite.com)
+
+_2014 – 2017_
+
+* Développement d'applications web et mobiles.
+* Cours avancés en algorithmes, structures de données et conception orientée objet.
+
+[Retour en haut](./#navigation-rapide)
+
+***
 
 ## Compétences Techniques
 
-- **Langages de programmation**: JavaScript (ES6+), Python, Java
-- **Frameworks**: React, Vue.js, Node.js, Express, Django
-- **Bases de données**: MongoDB, MySQL, PostgreSQL
-- **Outils DevOps**: Docker, Jenkins, Kubernetes
-- **Contrôle de version**: Git, GitHub, GitLab
-- **Méthodologies**: Agile (Scrum), TDD
+* **Langages de programmation**: JavaScript (ES6+), Python, Java
+* **Frameworks**: React, Vue.js, Node.js, Express, Django
+* **Bases de données**: MongoDB, MySQL, PostgreSQL
+* **Outils DevOps**: Docker, Jenkins, Kubernetes
+* **Contrôle de version**: Git, GitHub, GitLab
+* **Méthodologies**: Agile (Scrum), TDD
 
-[Retour en haut](#navigation-rapide)
+[Retour en haut](./#navigation-rapide)
 
----
+***
 
 ## Langues
 
-- **Français** : Langue maternelle
-- **Anglais** : Courant (TOEIC 940)
+* **Français** : Langue maternelle
+* **Anglais** : Courant (TOEIC 940)
 
-[Retour en haut](#navigation-rapide)
+[Retour en haut](./#navigation-rapide)
 
----
+***
 
 ## Centres d'Intérêt
 
-- **Informatique**: Veille technologique, développement open-source
-- **Sports**: Course à pied, natation
-- **Voyages**: Découverte de nouvelles cultures et technologies à travers le monde
+* **Informatique**: Veille technologique, développement open-source
+* **Sports**: Course à pied, natation
+* **Voyages**: Découverte de nouvelles cultures et technologies à travers le monde
 
-[Retour en haut](#navigation-rapide)
+[Retour en haut](./#navigation-rapide)
 
----
+***
 
 ## Références
 
 Disponibles sur demande.
 
-[Retour en haut](#navigation-rapide)
+[Retour en haut](./#navigation-rapide)
