@@ -5,12 +5,10 @@ arnaud-barbotte@icloud.com
 
 ---
 👤
-
 Quelques phrases à propos de vous. Parlez de votre expérience, de vos compétences et de vos objectifs professionnels.
 
 ---
 🏗️
-
 **[Appitel](https://www.appitel.fr)** - Since 2021 - Consultant en Solution APPLE
 
 **[DDB](https://www.ddb.fr)** - 2014-2020 - Directeur Artistique / Maquettiste / Retoucheur
@@ -21,7 +19,6 @@ Quelques phrases à propos de vous. Parlez de votre expérience, de vos compéte
 
 ---
  🏫
-
 **[APPLE CERTIFIED](https://www.credly.com/badges/46ca5467-31b7-430e-b3f0-3fb8d27fa992)** - October 2023 - Apple Certified Support Professional
 
 **[Jamf Certified Tech]([https://www.credly.com/badges/46ca5467-31b7-430e-b3f0-3fb8d27fa992](https://fr.linkedin.com/in/arnaudbarbotte))** - July 2022 - Jamf Certified Tech
@@ -32,11 +29,8 @@ Quelques phrases à propos de vous. Parlez de votre expérience, de vos compéte
 
 ---
 💼
-
-|:--------------- |:---------------:| ---------------:|
 | Création | Suite Adobe | APPLE | JAMF 200 |
 | Suite Office | MDM | Apple Business | APPLE CERTIFIED |
-<!-- | |  |  |  | -->
 
 ---
 
