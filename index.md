@@ -19,13 +19,13 @@ Quelques phrases à propos de vous. Parlez de votre expérience, de vos compéte
 
 ---
  🏫
- **[APPLE CERTIFIED](https://www.credly.com/badges/46ca5467-31b7-430e-b3f0-3fb8d27fa992)** - October 2023 - Apple Certified Support Professional
+- **[APPLE CERTIFIED](https://www.credly.com/badges/46ca5467-31b7-430e-b3f0-3fb8d27fa992)** - October 2023 - Apple Certified Support Professional
 
- **[Jamf Certified Tech]([https://www.credly.com/badges/46ca5467-31b7-430e-b3f0-3fb8d27fa992](https://fr.linkedin.com/in/arnaudbarbotte))** - July 2022 - Jamf Certified Tech
+- **[Jamf Certified Tech]([https://www.credly.com/badges/46ca5467-31b7-430e-b3f0-3fb8d27fa992](https://fr.linkedin.com/in/arnaudbarbotte))** - July 2022 - Jamf Certified Tech
 
- **[NextFormation](https://nextformation.com/)** - 2013 - Infographiste Multi Média
+- **[NextFormation](https://nextformation.com/)** - 2013 - Infographiste Multi Média
 
- **[Gobelins](https://www.gobelins.fr/)** - 2009-2012 - Infographiste
+- **[Gobelins](https://www.gobelins.fr/)** - 2009-2012 - Infographiste
 
 ---
 💼
