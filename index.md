@@ -5,7 +5,7 @@ arnaud-barbotte@icloud.com
 [LinkedIN](https://fr.linkedin.com/in/arnaudbarbotte)
 
 ---
-👤
+[👤](#about)
 
 Quelques phrases à propos de vous. Parlez de votre expérience, de vos compétences et de vos objectifs professionnels.
 
@@ -43,4 +43,4 @@ Listez les langues que vous parlez (ex : Français, Anglais, etc.).
 
 ### BARBOTTE Arnaud | [✉️](mailto:votremail@example.com) | [📱](sms:+33688225022)
 
-/[☝️](#navigation-rapide)
+/[☝️](#about)
