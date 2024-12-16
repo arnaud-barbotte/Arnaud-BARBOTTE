@@ -11,7 +11,7 @@ Quelques phrases à propos de vous. Parlez de votre expérience, de vos compéte
 🏗️
 - **[Appitel](https://www.appitel.fr)** - Since 2021 - Consultant en Solution APPLE
 
-- **[DDB](https://www.ddb.fr)** - 2014-2020 - Directeur Artistique / Maquettiste / Retoucheur
+- **[Doyle Dane Bernbach](https://www.ddb.fr)** - 2014-2020 - Directeur Artistique / Maquettiste / Retoucheur
 
 - **[Groupe-Amalthéa](https://www.groupe-amalthea.fr)** 2012-2013 - Maquettiste
 
