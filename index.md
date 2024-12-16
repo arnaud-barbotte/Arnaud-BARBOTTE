@@ -1,8 +1,7 @@
 ** APPLE Solution Consultant**  
 arnaud-barbotte@icloud.com
 +33 6 88 22 50 22
-[Portfolio](https://john-doe-portfolio.com) | [GitHub](https://github.com/johndoe) | [LinkedIn](https://www.linkedin.com/in/johndoe)
-[🔗](https://fr.linkedin.com/in/arnaudbarbotte) | Arnaud®  Written in markdown.
+[LinkedIN](https://fr.linkedin.com/in/arnaudbarbotte) | Arnaud®  Written in markdown.
 ---
 
 ---
