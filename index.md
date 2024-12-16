@@ -39,5 +39,5 @@ Quelques phrases à propos de vous. Parlez de votre expérience, de vos compéte
 
 Listez les langues que vous parlez (ex : Français, Anglais, etc.).
 
-###### BARBOTTE Arnaud with ❤️ & &#8984; & ![image](https://github.com/user-attachments/assets/19503dfd-a8fc-40c5-9d47-dbb978399325)
+###### BARBOTTE Arnaud with ❤️ & &#8984; & ![image](https://github.com/user-attachments/assets/19503dfd-a8fc-40c5-9d47-dbb978399325){width=x height=1em}
  / [✉️](mailto:arnaud-barbotte@icloud.com) / [📱](sms:0688225022)
