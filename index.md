@@ -106,5 +106,9 @@ john.doe@email.com
 ## Références
 
 Disponibles sur demande.
-
+---
+### [Contact](#contact)
+![logo](assets/AB.png) | [✉️](mailto:arnobarbotte@gmail.com) | [📱](tel:+33688225022) | [🔗](https://fr.linkedin.com/in/arnaudbarbotte) | Arnaud ®  Written in markdown.
+-
+[☝️](#hello)
 [Retour en haut](#navigation-rapide)
