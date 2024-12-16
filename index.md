@@ -29,7 +29,7 @@ Quelques phrases à propos de vous. Parlez de votre expérience, de vos compéte
 
 ---
 💼
- |:-----:|:-----:|:-----:|
+ |-----|-----|-----|
  | Création | Suite Adobe | APPLE | JAMF 200 |
  | Suite Office | MDM | Apple Business | APPLE CERTIFIED |
 
@@ -38,6 +38,9 @@ Quelques phrases à propos de vous. Parlez de votre expérience, de vos compéte
 ## Langues
 
 Listez les langues que vous parlez (ex : Français, Anglais, etc.).
+
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
 
 ###### BARBOTTE Arnaud with ❤️ & &#8984; & ![image](https://github.com/user-attachments/assets/19503dfd-a8fc-40c5-9d47-dbb978399325){width=x height=1em}
  / [✉️](mailto:arnaud-barbotte@icloud.com) / [📱](sms:0688225022)
