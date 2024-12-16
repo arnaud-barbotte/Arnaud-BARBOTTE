@@ -36,7 +36,7 @@ Quelques phrases à propos de vous. Parlez de votre expérience, de vos compéte
 |:--------------- |:---------------:| ---------------:|
 | Création | Suite Adobe | APPLE | JAMF 200 |
 | Suite Office | MDM | Apple Business | APPLE CERTIFIED |
-| |  |  |  | 
+<!-- | |  |  |  | -->
 
 ---
 
@@ -44,4 +44,4 @@ Quelques phrases à propos de vous. Parlez de votre expérience, de vos compéte
 
 Listez les langues que vous parlez (ex : Français, Anglais, etc.).
 
-[!CAUTION] BARBOTTE Arnaud with ❤️ with &#8984; and MD | [✉️](mailto:arnaud-barbotte@icloud.com) | [📱](sms:+33688225022)
+BARBOTTE Arnaud with ❤️ with &#8984; and MD / [✉️](mailto:arnaud-barbotte@icloud.com) / [📱](sms:+33688225022)
