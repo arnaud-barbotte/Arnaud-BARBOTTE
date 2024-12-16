@@ -44,4 +44,4 @@ Quelques phrases à propos de vous. Parlez de votre expérience, de vos compéte
 
 Listez les langues que vous parlez (ex : Français, Anglais, etc.).
 
-BARBOTTE Arnaud with ❤️ & &#8984; & [MD](https://www.google.com/url?sa=i&url=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FFichier%3AMarkdown-mark.svg&psig=AOvVaw1ZYSP9CxdXlFtsod_xEgP7&ust=1734456862936000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPiiq7vprIoDFQAAAAAdAAAAABAE) / [✉️](mailto:arnaud-barbotte@icloud.com) / [📱](sms:0688225022)
+###### BARBOTTE Arnaud with ❤️ & &#8984; & [MD](https://www.google.com/url?sa=i&url=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FFichier%3AMarkdown-mark.svg&psig=AOvVaw1ZYSP9CxdXlFtsod_xEgP7&ust=1734456862936000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPiiq7vprIoDFQAAAAAdAAAAABAE) / [✉️](mailto:arnaud-barbotte@icloud.com) / [📱](sms:0688225022)
