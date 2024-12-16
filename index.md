@@ -1,108 +1,47 @@
-**Développeur Web Full Stack**  
-john.doe@email.com  
-+33 6 12 34 56 78  
+** APPLE Solution Consultant**  
+arnaud-barbotte@icloud.com
++33 6 88 22 50 22
 [Portfolio](https://john-doe-portfolio.com) | [GitHub](https://github.com/johndoe) | [LinkedIn](https://www.linkedin.com/in/johndoe)
-[✉️](mailto:arnobarbotte@gmail.com) | [📱](tel:+33688225022) | [🔗](https://fr.linkedin.com/in/arnaudbarbotte) | Arnaud®  Written in markdown.
+[🔗](https://fr.linkedin.com/in/arnaudbarbotte) | Arnaud®  Written in markdown.
 ---
 
-## Navigation rapide
-- [Expérience Professionnelle](#expérience-professionnelle)
-- [Projets](#projets)
-- [Formation](#formation)
-- [Compétences Techniques](#compétences-techniques)
-- [Langues](#langues)
-- [Centres d'Intérêt](#centres-dintérêt)
+---
+👤
+
+Quelques phrases à propos de vous. Parlez de votre expérience, de vos compétences et de vos objectifs professionnels.
 
 ---
+🏗️
 
-## Expérience Professionnelle
+**[Appitel](https://www.appitel.fr){.btn .btn-default}** - Depuis 09/21 | Consultant en Solution APPLE
 
-### Développeur Web Full Stack – [Nom de l'entreprise](https://www.nom-entreprise.com)  
-*Janvier 2021 – Présent*  
-- Développement d'applications web avec **React**, **Node.js** et **MongoDB**.
-- Conception d'API RESTful pour des solutions SaaS.
-- Collaboration avec les équipes UI/UX pour améliorer l'expérience utilisateur.
+**[DDB](https://www.ddb.fr)** - 2014-2020 | Directeur Artistique/Maquettiste/Retoucheur
 
-### Développeur Frontend – [Startup Tech](https://www.startup-tech.com)  
-*Septembre 2019 – Décembre 2020*  
-- Création d'interfaces réactives en **Vue.js** et intégration avec des backends **GraphQL**.
-- Optimisation des performances des applications pour mobile et desktop.
+**[Groupe-Amalthéa](https://www.groupe-amalthea.fr)** 2012-2013 | Maquettiste
 
-### Stage Développement Web – [Nom de l'entreprise](https://www.nom-entreprise.com)  
-*Juillet 2018 – Août 2019*  
-- Contribution au développement de nouvelles fonctionnalités pour une plateforme de gestion de contenu.
-- Tests et débogage de modules frontend en **Angular**.
-
-[Retour en haut](#navigation-rapide)
+**[Gutenberg-networks](https://www.gutenberg.agency/)** - 2009-2012 | PhotoGraveur
 
 ---
+## 🏫
 
-## Projets
+**[NextFormation](https://nextformation.com/)** - 2013 | Infographiste Multi Média
 
-### [Application de Gestion de Projets](https://github.com/johndoe/gestion-projets)
-*Un outil web pour la gestion de projets collaboratifs*  
-- Utilisé par plus de 500 utilisateurs pour suivre et gérer leurs projets.
-- Technologies : React, Node.js, MongoDB.
-
-### [Application Mobile de Fitness](https://github.com/johndoe/app-fitness)
-*Application de suivi d'entraînement et de nutrition*  
-- Développement d'une application mobile cross-platform avec React Native.
-- Plus de 10 000 téléchargements sur Google Play et l'App Store.
-
-[Retour en haut](#navigation-rapide)
+**[Gobelins](https://www.gobelins.fr/)** - 2009-2012 | Infographiste
 
 ---
+💼
 
-## Formation
-
-### Master Informatique – [Université de Technologie](https://www.universite.com)  
-*2017 – 2019*  
-- Spécialisation en développement logiciel et systèmes distribués.
-- Projets de recherche sur les architectures microservices et le cloud computing.
-
-### Licence Informatique – [Université de Science](https://www.universite.com)  
-*2014 – 2017*  
-- Développement d'applications web et mobiles.
-- Cours avancés en algorithmes, structures de données et conception orientée objet.
-
-[Retour en haut](#navigation-rapide)
-
----
-
-## Compétences Techniques
-
-- **Langages de programmation**: JavaScript (ES6+), Python, Java
-- **Frameworks**: React, Vue.js, Node.js, Express, Django
-- **Bases de données**: MongoDB, MySQL, PostgreSQL
-- **Outils DevOps**: Docker, Jenkins, Kubernetes
-- **Contrôle de version**: Git, GitHub, GitLab
-- **Méthodologies**: Agile (Scrum), TDD
-
-[Retour en haut](#navigation-rapide)
+|:--------------- |:---------------:| ---------------:|
+| Création | Suite Adobe | APPLE |
+| JAMF | Suite Office | MDM |
+| Apple Business| | |
 
 ---
 
 ## Langues
 
-- **Français** : Langue maternelle
-- **Anglais** : Courant (TOEIC 940)
+Listez les langues que vous parlez (ex : Français, Anglais, etc.).
 
-[Retour en haut](#navigation-rapide)
+### BARBOTTE Arnaud | [✉️](mailto:votremail@example.com) | [📱](sms:+33688225022)
 
----
-
-## Centres d'Intérêt
-
-- **Informatique**: Veille technologique, développement open-source
-- **Sports**: Course à pied, natation
-- **Voyages**: Découverte de nouvelles cultures et technologies à travers le monde
-
-[Retour en haut](#navigation-rapide)
-
----
-
-## Références
-
-Disponibles sur demande.
----
 /[☝️](#hello) [Retour en haut](#navigation-rapide)
