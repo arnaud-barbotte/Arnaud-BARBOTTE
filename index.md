@@ -1,6 +1,7 @@
 ** APPLE Solution Consultant**  
 arnaud-barbotte@icloud.com
 +33 6 88 22 50 22
+
 [LinkedIN](https://fr.linkedin.com/in/arnaudbarbotte)
 
 ---
