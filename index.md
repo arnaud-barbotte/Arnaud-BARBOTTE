@@ -2,7 +2,7 @@
 john.doe@email.com  
 +33 6 12 34 56 78  
 [Portfolio](https://john-doe-portfolio.com) | [GitHub](https://github.com/johndoe) | [LinkedIn](https://www.linkedin.com/in/johndoe)
-
+[✉️](mailto:arnobarbotte@gmail.com) | [📱](tel:+33688225022) | [🔗](https://fr.linkedin.com/in/arnaudbarbotte) | Arnaud®  Written in markdown.
 ---
 
 ## Navigation rapide
@@ -105,8 +105,4 @@ john.doe@email.com
 
 Disponibles sur demande.
 ---
-### [Contact](#contact)
-![logo](assets/AB.png) | [✉️](mailto:arnobarbotte@gmail.com) | [📱](tel:+33688225022) | [🔗](https://fr.linkedin.com/in/arnaudbarbotte) | Arnaud ®  Written in markdown.
--
-[☝️](#hello)
-[Retour en haut](#navigation-rapide)
+/[☝️](#hello) [Retour en haut](#navigation-rapide)
