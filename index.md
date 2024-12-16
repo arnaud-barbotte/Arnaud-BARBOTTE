@@ -43,4 +43,4 @@ Listez les langues que vous parlez (ex : Français, Anglais, etc.).
 
 ### BARBOTTE Arnaud | [✉️](mailto:votremail@example.com) | [📱](sms:+33688225022)
 
-/[☝️](#hello) [Retour en haut](#navigation-rapide)
+/[☝️](#navigation-rapide)
