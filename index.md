@@ -1,5 +1,3 @@
-# john doe
-
 **Développeur Web Full Stack**  
 john.doe@email.com  
 +33 6 12 34 56 78  
